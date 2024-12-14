@@ -13,4 +13,4 @@ doi = {https://doi.org/10.1016/j.knosys.2024.112764},
 url = {https://www.sciencedirect.com/science/article/pii/S0950705124013984},
 publisher={Elsevier}
 }
-<\pre>
+
